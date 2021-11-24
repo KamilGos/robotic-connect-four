@@ -30,11 +30,11 @@
 <br>
 
 ## :dart: About ##
-Connect four (also known as Four in line, Four Up, Plot Four, Find Four, Captain's Mistress, Four in a Row) is a two-player connection board game, in which the players choose a color and then take turns dropping colored discs into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. 
+Connect four (also known as Four in line, Four Up, Plot Four, Find Four, Captain's Mistress, Four in a Row) is a two-player connection board game, in which the players choose a colour and then take turns dropping coloured discs into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
 
-The idea behind this project was modify this game by adding robotic player, which makes possible to play human vs robot. Robot is controlled using heuristic algorithm, so its movements are human-like. 
+The idea behind this project was to modify this game by adding a robotic player, which makes it possible to play human vs robot. The robot is controlled using the heuristic algorithm, so its movements are human-like.
 
-Main assumptions: This project breaks with the two-player principle. One of the players is to be a computer. Image processing and algorithms derived from the theory of the game will be applied. The game will start after the user selects one of the difficulty levels on the control panel. The entire game process will follow traditional rules. One game lasts up to a few minutes. Movement from "artificial intelligence" will take place with the use of a specially designed mechanism, which is based on a stepper motor, servos and a gripper. The Raspberry Pi will be used in this project. 
+Main assumptions: This project breaks with the two-player principle. One of the players is to be a computer. Image processing and algorithms derived from the theory of the game will be applied. The game will start after the user selects one of the difficulty levels on the control panel. The entire game process will follow traditional rules. One game lasts up to a few minutes. Movement from "artificial intelligence" will take place with the use of a specially designed mechanism, which is based on a stepper motor, servos and a gripper. The Raspberry Pi will be used in this project.
 
 ## :package: Content
  * [CAD](CAD) - STEP file with presented model
@@ -55,32 +55,3 @@ Made with :heart: by <a href="https://github.com/KamilGos" target="_blank">Kamil
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-
-
-<!-- ADDONS -->
-<!-- images -->
-<!-- <h2 align="left">1. Mechanics </h2>
-<div align="center" id="inventor"> 
-  <img src=images/model_1.png width="230" />
-  <img src=images/model_2.png width="236" />
-  <img src=images/model_3.png width="228" />
-  &#xa0;
-</div> -->
-
-<!-- one image -->
-<!-- <h2 align="left">2. Electronics </h1>
-<div align="center" id="electronics"> 
-  <img src=images/electronics.png width="500" />
-  &#xa0;
-</div> -->
-
-
-<!-- project dockerized -->
-<!-- <div align="center" id="status"> 
-  <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" alt="simulator" width="75" style="transform: scaleX(-1);"/>
-   <font size="6"> Project dockerized</font> 
-  <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png" alt="simulator" width="75"/>
-  &#xa0;
-</div>
-<h1 align="center"> </h1> -->
